@@ -36,10 +36,13 @@ SVM (optimized)	97%
 
 ### How to Run
 Clone this repository:
+
 git clone [https://github.com/Shamitha2004/breast-cancer-detection.git](https://github.com/Shamitha2004/Brest_Cancer_Prediction)
+
 cd breast-cancer-detection
 
 Install dependencies:
+
 pip install -r requirements.txt
 
 Run the Jupyter Notebook:
