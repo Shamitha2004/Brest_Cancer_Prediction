@@ -5,7 +5,7 @@ Breast cancer occurs when abnormal cells in the breast grow and divide uncontrol
 
 Globally, breast cancer is one of the most common cancers in women and a major cause of cancer-related deaths. Early detection plays a crucial role in improving survival rates.
 
-#🌍 Facts and Figures
+🌍 Facts and Figures
 Most common cancer in women and second most common cancer overall.
 In 2018, there were over 2 million new cases worldwide.
 Incidence rates per 100,000 women:
@@ -15,7 +15,7 @@ USA (White women): 90.6
 India: 30.9
 
 
-#💡 Role of Machine Learning in Detection
+💡 Role of Machine Learning in Detection
 Mammograms are a common tool for early detection, but interpreting them accurately can be challenging for physicians.
 Machine Learning can assist by analyzing patterns in breast tumor data to help classify tumors as benign (non-cancerous) or malignant (cancerous) with high accuracy.
 
@@ -36,7 +36,7 @@ SVM (optimized)	97%
 
 ###📂 How to Run
 Clone this repository:
-git clone https://github.com/yourusername/breast-cancer-detection.git
+git clone [https://github.com/Shamitha2004/breast-cancer-detection.git](https://github.com/Shamitha2004/Brest_Cancer_Prediction)
 cd breast-cancer-detection
 
 Install dependencies:
